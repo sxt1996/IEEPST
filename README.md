@@ -8,7 +8,7 @@ As one of the most active research hotspots in hyperspectral remote sensing, ano
 # Index Terms
 Hyperspectral image, anomaly detection, data mining, information entropy, topology.
 # Flowchart
-![image](https://github.com/sxt1996/IEEPST/assets/55687887/12982f05-a100-4ca7-8ba4-8d3ee868a818)
+![IEEPST流程图](https://github.com/sxt1996/IEEPST/assets/55687887/a54d0a4a-4c61-41a3-8d93-4bf9260f3984)
 # Data Set
 AVIRIS-WTC: The data set was acquired on September 16, 2001 by NASA's Jet Propulsion Laboratory using the AVIRIS to image the World Trade Center (WTC) in New York. The experimental image preserves 224 spectral channels spanning the wavelength range of 370-2510 nm. This scene contains 200×200 pixels, of which the anomalies to be detected are fire sources, occupying 83 pixels in a total of 10 locations. 
 # Guidelines
